@@ -1,0 +1,39 @@
+{
+  "company_name": "",
+  "founders": [
+    {
+      "name": "",
+      "background": "",
+      "experience_years": 0,
+      "education": "",
+      "role": "",
+      "linkedin_url": ""
+    }
+  ],
+  "problem_statement": "",
+  "solution_description": "",
+  "market": {
+    "tam": null,
+    "sam": null,
+    "som": null,
+    "target_market": "",
+    "market_trends": []
+  },
+  "traction": {
+    "mrr": null,
+    "arr": null,
+    "cac": null,
+    "ltv": null,
+    "churn_rate": null,
+    "user_count": null
+  },
+  "financials": {
+    "revenue": null,
+    "burn_rate": null,
+    "funding_requested": null,
+    "valuation": null,
+    "runway_months": null
+  },
+  "competitive_landscape": [],
+  "technology_stack": []
+}
